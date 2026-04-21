@@ -1,4 +1,4 @@
-const API = "https://shy-sunset-0f85.mjoji8979.workers.dev/";
+const API ="https://shy-sunset-0f85.mjoji8979.workers.dev/";
 
 async function addStudent() {
   const data = {
