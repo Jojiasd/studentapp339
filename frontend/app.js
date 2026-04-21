@@ -1,4 +1,4 @@
-const API = "https://YOUR_WORKER_URL";
+const API = "https://shy-sunset-0f85.mjoji8979.workers.dev";
 
 async function addStudent() {
   const data = {
